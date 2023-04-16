@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+p {
+  color: red;
+  font-size: 50px;
+  font-weight: 500;
+}
+p:active {
+  -webkit-text-decoration: underline blue;
+          text-decoration: underline blue;
+  background-color: green;
+}/*# sourceMappingURL=index.css.map */
